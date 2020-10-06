@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 1194178926}
   - component: {fileID: 1194178925}
   m_Layer: 0
-  m_Name: Main Camera - test
+  m_Name: Main Camera - test -test2
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
